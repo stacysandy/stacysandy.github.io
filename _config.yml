@@ -1,1 +1,11 @@
+title: Stacy Sandy # your name (or website title) here
+logo: "/images/ava.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Science Graduate Student
+  <br><br>
+  Future Data Scientist in the making.
+  Anticipated graduation May 2020!
+  <br><br>
+  <a href="https://www.linkedin.com/in/stacey-s-2a095125">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
