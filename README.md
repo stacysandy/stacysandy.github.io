@@ -1,5 +1,5 @@
-# Sorry, there isn't much here! 
-I am still in transition here at GitHUb and there will be more to come. So stop back later. Thank you!
+# Sorry, this is an intentional blank page! 
+I am still in transition here at GitHub and there will be more to come. So stop back later. Thank you!
 
 <!---
 
