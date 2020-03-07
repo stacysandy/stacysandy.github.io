@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
--->
+
 
 **Bold** title: Stacy Sandy # your name (or website title) here
 logo: "/images/ava.png?raw=true" # your photo (or logo) here
@@ -44,6 +44,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 
+-->
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stacysandy/stacysandy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
