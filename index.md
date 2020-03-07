@@ -21,6 +21,8 @@
 
 ---
 
+<!---
+
 # ### Category Name 2
 
 - [FoodData Central Analysis](https://github.com/stacysandy/Data-Science-Practicum-I)
@@ -30,3 +32,6 @@
 #- [Project 5 Title](http://example.com/)
 
 ---
+
+
+-->
