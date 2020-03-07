@@ -12,14 +12,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[FoodData Central Analysis](http://example.com/)
+[FoodData Central Analysis](https://github.com/stacysandy/Data-Science-Practicum-I)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [FoodData Central Analysis](http://example.com/)
+- [FoodData Central Analysis](https://github.com/stacysandy/Data-Science-Practicum-I)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
