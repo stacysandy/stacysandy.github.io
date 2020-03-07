@@ -1,3 +1,5 @@
+<!---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stacysandy/stacysandy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -27,6 +29,20 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+-->
+
+**Bold** title: Stacy Sandy # your name (or website title) here
+logo: "/images/ava.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Science Graduate Student
+  <br><br>
+  Future Data Scientist in the making.
+  Anticipated graduation May 2020!
+  <br><br>
+  <a href="https://www.linkedin.com/in/stacey-s-2a095125">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
 
 ### Jekyll Themes
 
