@@ -1,3 +1,5 @@
+# I am still in transition here at GitHUb and there will be more to come. So stop back later. Thank you!
+
 <!---
 
 ## Welcome to GitHub Pages
@@ -44,7 +46,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 
--->
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stacysandy/stacysandy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -52,3 +54,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+-->
