@@ -1,4 +1,5 @@
-# I am still in transition here at GitHUb and there will be more to come. So stop back later. Thank you!
+# Sorry, there isn't much here! 
+I am still in transition here at GitHUb and there will be more to come. So stop back later. Thank you!
 
 <!---
 
