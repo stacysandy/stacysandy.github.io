@@ -1,4 +1,4 @@
-# Sorry, this page is a intentionally left blank. 
+# Sorry, this page is intentionally left blank. 
 I am still in transition here at GitHub and there will be more to come. So, please stop back later. Thank you!
 
 <!---
