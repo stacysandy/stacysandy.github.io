@@ -17,7 +17,7 @@
 
 ---
 <img src="Images/FDClogo.PNG?raw=true"/><br>
-[FoodData Central Analysis: Comparing Nutritional Values](https://github.com/stacysandy/Data-Science-Practicum-I)
+[FoodData Central Analysis - Comparing Nutritional Values](https://github.com/stacysandy/Data-Science-Practicum-I)
 
 
 ---
