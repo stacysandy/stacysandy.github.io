@@ -17,14 +17,15 @@
 
 ---
 <img src="Images/FDClogo.PNG?raw=true"/><br>
-[FoodData Central Analysis](https://github.com/stacysandy/Data-Science-Practicum-I)
+[FoodData Central Analysis: Comparing Nutritional Values](https://github.com/stacysandy/Data-Science-Practicum-I)
 
 
 ---
 
 ---
+<img src="Images/CK12FT.PNG?raw=true"/><br>
 [Colorado K-12 Financial Transparency – An Exploratory Data Science Comparison Across Schools](https://github.com/stacysandy/Data-Science-Practicum-II)
-<img src="Images/CK12FT.PNG?raw=true"/>
+
 
 ---
 
