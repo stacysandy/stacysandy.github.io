@@ -16,8 +16,9 @@
 -->
 
 ---
+<img src="Images/FDClogo.PNG?raw=true"/><br>
 [FoodData Central Analysis](https://github.com/stacysandy/Data-Science-Practicum-I)
-<img src="Images/FDClogo.PNG?raw=true"/>
+
 
 ---
 
