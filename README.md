@@ -1,5 +1,6 @@
-# Sorry, this page is intentionally left blank. 
-I am still in transition here at GitHub and there will be more to come. So, please stop back later. Thank you!
+# Repository of Projects by Stacy Sandy
+Hello and welcome to my GitHUb project site! 
+This site will contain links to my projects and repositories that I have accomplished throughout my graduate data science degree at Regis University. I hope to accomplish presenting the different methods of programing and exploratory data analysis that I have learned. My goal is to become a future data scientist and apply data engineering methods within that role. This GitHUb site is still in transition as I will add more projects that I have completed in various courses. Please continue to visit this site and stop back at later times. Thank you!
 
 <!---
 
