@@ -3,7 +3,7 @@
 ---
 Note: "This GitHUb site is still in transition as I will add more projects that I have completed in various courses. Please continue to visit this site and stop back at later times. Thank you!
 
-### Data Wrangling Projects:
+### Data Science Related Projects:
 ---
 <img src="Images/DW.PNG?raw=true"/><br>
 [Course related labs and experience data wrangling](https://github.com/stacysandy/Data_Wrangling)
