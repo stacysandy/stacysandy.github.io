@@ -1,8 +1,16 @@
 ## Portfolio
 
 ---
+Note: "This GitHUb site is still in transition as I will add more projects that I have completed in various courses. Please continue to visit this site and stop back at later times. Thank you!
 
-### Master of Science in Data Science Projects
+### Data Wrangling Projects:
+---
+<img src="Images/DW.PNG?raw=true"/><br>
+[Course related labs and experiences data wrangling](https://github.com/stacysandy/Data-Science-Practicum-I)
+
+---
+
+### Master of Science in Data Science Final Practicum Projects:
 
 <!---Hide using this
 
@@ -19,13 +27,9 @@
 <img src="Images/FDClogo.PNG?raw=true"/><br>
 [FoodData Central Analysis - Comparing Nutritional Values](https://github.com/stacysandy/Data-Science-Practicum-I)
 
-
----
-
 ---
 <img src="Images/CK12FT.PNG?raw=true"/><br>
 [Colorado K-12 Financial Transparency – An Exploratory Data Science Comparison Across Schools](https://github.com/stacysandy/Data-Science-Practicum-II)
-
 
 ---
 
