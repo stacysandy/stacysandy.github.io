@@ -6,7 +6,7 @@ Note: "This GitHUb site is still in transition as I will add more projects that 
 ### Data Wrangling Projects:
 ---
 <img src="Images/DW.PNG?raw=true"/><br>
-[Course related labs and experiences data wrangling](https://github.com/stacysandy/Data-Science-Practicum-I)
+[Course related labs and experience data wrangling](https://github.com/stacysandy/Data-Science-Practicum-I)
 
 ---
 
